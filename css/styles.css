@@ -53,7 +53,6 @@
     letter-spacing: 0.02em;
   }
   .nav-list {
-    font-family: "Roboto";
     font-weight: 500;
     font-size: 14px;
     line-height: 1.14;
@@ -107,7 +106,13 @@
     background-color: var(--button-hover-color);
   }
   /*---------------------------- benefits----------------------------*/
-  
+  .list-people{
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.18;
+    letter-spacing: 0.03em;
+    letter-spacing: 0.03em;}
+
   .hidden {
     font-family: 'Roboto';
     font-weight: 700;
@@ -144,14 +149,12 @@
   }
   
  
-  }
   
   .unit-title {
     font-weight: 400;
     font-size: 16px;
     line-height: 1.18;
     letter-spacing: 0.03em;
-  
     color: var(--primary-text-color);
   }
   /*----------------------------footer---------------------------------*/
@@ -171,7 +174,6 @@
     color: #ffffff;
   }
   .footer-link {
-    font-family: "Roboto";
     font-style: normal;
     font-weight: 400;
     font-size: 14px;
@@ -205,7 +207,6 @@
     color: #212121;
   }
   .example-text {
-    font-family: "Roboto";
     font-style: normal;
     font-weight: 400;
     font-size: 16px;
